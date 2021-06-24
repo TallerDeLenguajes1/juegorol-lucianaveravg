@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vero\\Desktop\\Luciana\\JuegodeRol\\juegorol-lucianaveravg\\JuegodeRol\\JuegodeRol.csproj": {}
+    "C:\\Users\\Vero\\Desktop\\Luciana\\JuegodeRol\\juegorol-lucianaveravg\\Juego de Rol\\Juego de Rol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vero\\Desktop\\Luciana\\JuegodeRol\\juegorol-lucianaveravg\\JuegodeRol\\JuegodeRol.csproj": {
+    "C:\\Users\\Vero\\Desktop\\Luciana\\JuegodeRol\\juegorol-lucianaveravg\\Juego de Rol\\Juego de Rol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vero\\Desktop\\Luciana\\JuegodeRol\\juegorol-lucianaveravg\\JuegodeRol\\JuegodeRol.csproj",
-        "projectName": "JuegodeRol",
-        "projectPath": "C:\\Users\\Vero\\Desktop\\Luciana\\JuegodeRol\\juegorol-lucianaveravg\\JuegodeRol\\JuegodeRol.csproj",
+        "projectUniqueName": "C:\\Users\\Vero\\Desktop\\Luciana\\JuegodeRol\\juegorol-lucianaveravg\\Juego de Rol\\Juego de Rol.csproj",
+        "projectName": "Juego de Rol",
+        "projectPath": "C:\\Users\\Vero\\Desktop\\Luciana\\JuegodeRol\\juegorol-lucianaveravg\\Juego de Rol\\Juego de Rol.csproj",
         "packagesPath": "C:\\Users\\Vero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vero\\Desktop\\Luciana\\JuegodeRol\\juegorol-lucianaveravg\\JuegodeRol\\obj\\",
+        "outputPath": "C:\\Users\\Vero\\Desktop\\Luciana\\JuegodeRol\\juegorol-lucianaveravg\\Juego de Rol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vero\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,6 +52,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegodeRol", "JuegodeRol.csproj", "{E198C6D6-2415-4CF8-AC91-290BAE2B9BAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego de Rol", "Juego de Rol.csproj", "{BCCC911B-56EB-4191-B2B5-092D516F152A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E198C6D6-2415-4CF8-AC91-290BAE2B9BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E198C6D6-2415-4CF8-AC91-290BAE2B9BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E198C6D6-2415-4CF8-AC91-290BAE2B9BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E198C6D6-2415-4CF8-AC91-290BAE2B9BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCC911B-56EB-4191-B2B5-092D516F152A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCC911B-56EB-4191-B2B5-092D516F152A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCC911B-56EB-4191-B2B5-092D516F152A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCC911B-56EB-4191-B2B5-092D516F152A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C1672884-DED1-4671-87F1-9BAE93B4E9A6}
+		SolutionGuid = {DC9080DC-000F-4902-A24B-BB1204B8316C}
 	EndGlobalSection
 EndGlobal
